@@ -1,9 +1,8 @@
-# MeetUp-1
-Introducción a Flutter - Flutter desde una perspectiva iOS - Flutter desde una perspectiva Android
+# MeetUp-2
 
 ## Charlas :
 
-- **"Flutter y el (posible) futuro de los dispositivos móviles e IoT" - Frank Moreno **
+- **"Flutter y el (posible) futuro de los dispositivos móviles e IoT" - Frank Moreno**
 
 Slides : 
 
