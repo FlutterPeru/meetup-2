@@ -4,7 +4,7 @@
 
 - **"Flutter y el (posible) futuro de los dispositivos móviles e IoT" - Frank Moreno**
 
-Slides : 
+Ref : https://medium.com/@kranfix/fuchsia-os-y-flutter-e1c9e290c887
 
 
 - **"SpeedRunning a Chat App with Flutter" - Hansy Schmitt**
